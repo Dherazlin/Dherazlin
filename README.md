@@ -97,23 +97,25 @@ A realtime communication platform inspired by modern meeting and collaboration a
 
 <td width="50%" valign="top">
 
-### 🤖 CodeMentor AI
+### 🤖 Saathi
 
-**AI Coding Tutor — In Development**
+**AI Healthcare Agent — In Development**
 
-An AI-powered coding tutor designed to help learners understand programming problems through explanations, visualizations, hints, and interactive practice instead of simply giving away the solution.
+An AI-powered healthcare assistant designed to provide users with accessible health information, guidance, and support through an intelligent conversational interface.
 
-* 🧠 AI-powered explanations
-* 👀 Visualize programming concepts
-* 💡 Hint-based learning
-* 🧪 Interactive practice and testing
-* 🎯 Learning-focused experience
+* 🧠 AI-powered health conversations
+* 💬 Natural language interaction
+* 🩺 Health information and guidance
+* 🔎 Intelligent understanding of user queries
+* 🚧 Continuously improving AI capabilities
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-4B32C3?style=flat-square)
+
+**[📦 Repository](YOUR_REPOSITORY_LINK)**
 
 **[📦 Repository](YOUR_REPOSITORY_LINK)**
 
