@@ -61,7 +61,7 @@ An AI-powered civic decision-support platform designed to help analyze citizen i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square\&logo=googlegemini\&logoColor=white)
 
-**[🔗 Demo](YOUR_DEMO_LINK)**  ·  **[📦 Repository](https://github.com/Dherazlin/CivicSense-AI)**
+**[🔗 Demo]([YOUR_DEMO_LINK](https://civic-sense-ai-roan.vercel.app/))**  ·  **[📦 Repository]((https://github.com/joegodwin04/CivicSense-AI))**
 
 </td>
 </tr>
